@@ -9,6 +9,6 @@ using namespace std;
  }
 int main()
 {
-     toh(3,1,3,2); 
+     toh(3,1,3,2); //toh(number of disk,source,destination,auxiliary)
      return 0;
 }
